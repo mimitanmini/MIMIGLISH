@@ -47,7 +47,6 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -66,7 +65,7 @@ header {
 
 .top-wrapper {
   padding: 200px 0 100px 0;
-  background-image: url(https://burst.shopifycdn.com/photos/round-colored-tile.jpg?width=4460&height=4460&exif=1&iptc=1);
+  background-image: url(multicolored-paint-drippings-1212407.jpg);
   background-size: cover;
   color: black;
   text-align: center;
