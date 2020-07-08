@@ -54,6 +54,7 @@ header {
 
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
+  color:white;
 }
 .menu-icon {
   color: white;
@@ -75,7 +76,7 @@ header {
   opacity: 0.9;
   font-size: 45px;
   letter-spacing: 5px;
-    background-color: white;
+
 }
 
 .top-wrapper p {
